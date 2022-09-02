@@ -22,7 +22,9 @@ This repository contains a collection of scripts and notebooks working towards t
         * `py-predictive-model.ipynp`: Given the gene signature from network analysis, this script perform feature selection, search the optimal model and its hyperparameters based on the training datasets
     
     - Ml model validation: Use the independent datasets to evaluate the predictive model 
-        * `py-model-validation.ipynp`: Validate the models in a combination of independent TB progression and T treatment cohorts.  Evaluate the predictive model performance on the independent datasets and how the predictive score correlating with clinical outcomes as well as other bioassay/microbiological results.
+        * `py-model-validation-progression-individual.ipynp`: Model validation in each of independent TB progression cohorts.  
+        * `py-model-validation-progression-pool.ipynp`: Model validation in a combination of independent TB progression cohorts. Evaluate incipient TB and active TB diagonsis. Establish a probabilistic model for TB risk estimation. 
+        * `py-model-validation-treatment.ipynp`: Model validation in each of independent TB treatment cohorts.  Evaluate model prediction in treatment monitoring and clinical outcomes and how the predictive score correlating with bioassay/microbiological results.
         
 
 ### fun/
