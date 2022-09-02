@@ -1,0 +1,10 @@
+Name,Dataset_ID,Platform,Size,PRJNA_ID
+Infect_subACS,GSE116014,microarray,85,
+Progress_ACS,GSE79362,RNAseq,214,PRJNA315611
+Progress_GC6,GSE94438,RNAseq,418,PRJNA369684
+Progress_Leicester,GSE107995,RNAseq,71,PRJNA422124
+Progress_London,E-MTAB-6845,microarray,108,
+Progress_Brizal,GSE112104,RNAseq,71,PRJNA439289
+Progress_Leicester2,GSE157657,RNAseq,760,PRJNA662344
+Treat_Cortis,GSE89403,RNAseq,367,PRJNA352062
+Treat_SA2015,GSE67589,microarray,57,
