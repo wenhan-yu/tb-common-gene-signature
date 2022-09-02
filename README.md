@@ -1,4 +1,5 @@
-## Common TB gene signature model development - Network-based meta-analysis combining with machine-learning modeling 
+## Common TB gene signature model development 
+###   Network-based meta-analysis combining with machine-learning modeling 
 
 This repository contains a collection of scripts and notebooks working towards the development of a common gene signature model predictive of stage of TB disease progression as well as monitoring treatment response.
 
