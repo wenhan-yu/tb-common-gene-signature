@@ -3,7 +3,7 @@
 
 This repository contains a collection of scripts and notebooks working towards the development of a common gene signature model predictive of stage of TB disease progression as well as monitoring treatment response.
 
-    For the detail, check out the preprint on bioRxiv (https://www.biorxiv.org/content/10.1101/2022.11.28.518302v3.abstract)
+ For the detail, check out the preprint on bioRxiv (https://www.biorxiv.org/content/10.1101/2022.11.28.518302v3.abstract)
 
 ### code
 * The project are composed of four parts
